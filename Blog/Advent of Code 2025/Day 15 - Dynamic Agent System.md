@@ -1,6 +1,6 @@
 ---
 title: "Day 15: Dynamic Agent System - Configuration over Hardcoding"
-date: 2025-12-16
+date: 2025-12-15
 tags:
   - python
   - aoc
@@ -8,6 +8,7 @@ tags:
   - aiagents
   - yaml
   - systemdesign
+link_terms:
 toc: true
 ---
 

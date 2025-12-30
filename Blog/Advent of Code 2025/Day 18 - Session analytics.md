@@ -7,6 +7,7 @@ tags:
   - adventofcode
   - aiagents
   - analytics
+link_terms:
 toc: true
 ---
 

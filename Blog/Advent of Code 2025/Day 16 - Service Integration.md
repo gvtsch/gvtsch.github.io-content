@@ -6,6 +6,9 @@ tags:
   - aoc
   - adventofcode
   - aiagents
+  - oauth
+  - SQLite
+link_terms:
 toc: true
 ---
 

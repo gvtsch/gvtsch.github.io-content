@@ -7,6 +7,8 @@ tags:
   - adventofcode
   - aiagents
   - mcp
+  - tools
+link_terms:
 toc: true
 ---
 
