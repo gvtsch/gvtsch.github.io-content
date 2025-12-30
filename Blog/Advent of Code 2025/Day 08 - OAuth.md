@@ -1,5 +1,5 @@
 ---
-title: "Day eight. OAuth?!"
+title: "Day 08. OAuth?!"
 date: 2025-12-08
 tags:
   - python

@@ -1,5 +1,5 @@
 ---
-title: "Day twelve. MCP."
+title: "Day 12. MCP."
 date: 2025-12-12
 tags:
   - python

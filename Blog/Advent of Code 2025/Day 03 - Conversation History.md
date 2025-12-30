@@ -1,5 +1,5 @@
 ---
-title: "Day three of 24. Conversation Memory"
+title: "Day 03 of 24. Conversation Memory"
 date: 2025-12-03
 tags:
   - python

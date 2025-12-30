@@ -1,5 +1,5 @@
 ---
-title: "Day four of 24 days Advent of Code: SQLite"
+title: "Day 04: SQLite"
 date: 2025-12-04
 tags:
   - python

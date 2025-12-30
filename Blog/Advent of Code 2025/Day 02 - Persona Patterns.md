@@ -1,5 +1,5 @@
 ---
-title: "Day two of my personal Advent of Code Challenge"
+title: "Day 02 of my personal Advent of Code Challenge"
 date: 2025-12-02
 tags:
   - python

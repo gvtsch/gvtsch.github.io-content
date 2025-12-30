@@ -1,5 +1,5 @@
 ---
-title: "Day eleven. Information compression."
+title: "Day 11. Information compression."
 date: 2025-12-11
 tags:
   - python

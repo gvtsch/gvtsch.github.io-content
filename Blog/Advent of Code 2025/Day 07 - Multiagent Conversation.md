@@ -1,5 +1,5 @@
 ---
-title: "Day seven of my personal AoC"
+title: "Day 07: Conversation"
 date: 2025-12-07
 tags:
   - python

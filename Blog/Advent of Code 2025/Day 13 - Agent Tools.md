@@ -1,5 +1,5 @@
 ---
-title: "Day thirteen. (Agent) Tools"
+title: "Day 13. (Agent) Tools"
 date: 2025-12-13
 tags:
   - python

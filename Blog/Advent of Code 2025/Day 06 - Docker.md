@@ -1,5 +1,5 @@
 ---
-title: "Day six: Docker"
+title: "Day 06: Docker"
 date: 2025-12-06
 tags:
   - python

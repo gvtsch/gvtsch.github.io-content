@@ -1,5 +1,5 @@
 ---
-title: "Day nine: Protected APIs"
+title: "Day 09: Protected APIs"
 date: 2025-12-09
 tags:
   - python

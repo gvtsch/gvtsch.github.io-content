@@ -1,5 +1,5 @@
 ---
-title: "Day ten. Information Curation"
+title: "Day 10. Information Curation"
 date: 2025-12-10
 tags:
   - python

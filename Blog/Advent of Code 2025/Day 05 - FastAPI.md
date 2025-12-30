@@ -1,5 +1,5 @@
 ---
-title: "Day four of 24 days Advent of Code: SQLite"
+title: "Day 05 out of 24: FastAPI"
 date: 2025-12-05
 tags:
   - python

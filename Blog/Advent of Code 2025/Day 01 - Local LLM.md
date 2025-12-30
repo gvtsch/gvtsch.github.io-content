@@ -1,5 +1,5 @@
 ---
-title: "Day one of 24. Sleeves rolled up! Let's go."
+title: "Day 01 of 24. Sleeves rolled up! Let's go."
 date: 2025-12-01
 tags:
   - python
