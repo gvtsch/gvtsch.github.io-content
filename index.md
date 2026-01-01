@@ -10,3 +10,5 @@ This is my _digital garden_, or at least the part that I share publicly. It is s
 If you notice anything, or if I can help you in any way, or even if you just want to chat... Then feel free to get in touch!
 
 You can find almost all of the code that I am showing here in my GitHub repository (https://github.com/gvtsch/The-learning-lab).
+
+_**A note on digital gardening**: This garden grows with the help of modern tools. I use AI as a sparring partner for visuals, translations, and for shaping my thoughts. It’s a collaborative process: while I guide the direction and curate the output, these tools help me explore and expand this space more effectively._
