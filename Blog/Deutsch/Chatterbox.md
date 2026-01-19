@@ -1,3 +1,15 @@
+---
+title: Chatterbox
+date: 2026-01-19
+tags:
+  - machine-learning
+  - deep-learning
+  - python
+  - llm
+  - nlp
+  - sovereignAI
+toc: true
+---
 
 Ich bin vor kurzem über Chatterbox gestolpert. Chatterbox von Resemble AI ist ein leistungsstarkes Open-Source-Modell für Text-to-Speech. Es ermöglicht hochwertiges Voice-Cloning und auch präzise Emotionssteuerungen. 
 Das Tool gibt es hier: https://www.resemble.ai/chatterbox/. Hier kann man sich auch Beispiele anhören. Ist ganz spannend.
