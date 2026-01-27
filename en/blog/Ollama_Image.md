@@ -1,9 +1,8 @@
 ---
-title: Bilder lokal mit Ollama erzeugen
+title: Create images locally w/ Ollama
 date: 2026-01-27
 tags: ["machine-learning"]
 toc: True
-draft: false
 author: CKe
 translations:
   en: "de/blog/Ollama_Image"

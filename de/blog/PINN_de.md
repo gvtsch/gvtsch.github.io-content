@@ -8,6 +8,7 @@ tags:
     - tensorflow
     - numpy
 toc: true
+author: CKe
 translations:
   en: "en/blog/PINN"
 ---
