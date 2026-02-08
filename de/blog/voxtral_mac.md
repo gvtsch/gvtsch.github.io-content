@@ -9,7 +9,6 @@ tags:
   - sovereignAI
   - python
   - C
-toc: true
 translations:
   en : "en/blog/voxtral_mac"
 ---
